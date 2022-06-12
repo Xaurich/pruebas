@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1655000473 source:c:\users\emili\onedrive\escritorio\programacion 1\abmpersonas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"abmPersonas.h"
+
+1654999777 c:\users\emili\onedrive\escritorio\programacion 1\abmpersonas\personas.h
+
+1655000363 source:c:\users\emili\onedrive\escritorio\programacion 1\abmpersonas\abmpersonas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"abmPersonas.h"
+
+1655000209 c:\users\emili\onedrive\escritorio\programacion 1\abmpersonas\abmpersonas.h
+
