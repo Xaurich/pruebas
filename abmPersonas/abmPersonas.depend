@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1654931228 source:c:\users\emili\onedrive\escritorio\programacion 1\abmpersonas\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<string.h>
-
